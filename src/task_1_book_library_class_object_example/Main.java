@@ -8,10 +8,10 @@ public class Main
     {
         Scanner sc = new Scanner(System.in);
         Library lib = new Library();
-        System.out.print("Books Present : Java Basics  :  Python Guide ");
+       
         lib.addBook(new Book("Java Basics", "James Gosling", "12345"));
         lib.addBook(new Book("Python Guide", "Guido van Rossum", "67890"));
-
+        System.out.print("Books Present : Java Basics  :  Python Guide ");
         System.out.print("\nEnter book title to search about book details:");
         String searchTitle = sc.nextLine();
 
