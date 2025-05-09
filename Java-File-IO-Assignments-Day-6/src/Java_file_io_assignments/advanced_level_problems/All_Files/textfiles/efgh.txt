@@ -1,0 +1,3 @@
+Vena Solutions is a cloud-based financial planning and analysis (FP&A) software platform that combines
+the familiarity of Excel with powerful data management and workflow automation capabilities.
+They help organizations improve business planning, budgeting, and forecasting processes.

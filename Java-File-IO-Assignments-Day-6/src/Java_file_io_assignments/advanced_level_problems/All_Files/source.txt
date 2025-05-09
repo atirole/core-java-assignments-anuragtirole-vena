@@ -1,0 +1,8 @@
+Hello this is Anurag Tirole
+Vena Solutions is a cloud-based financial planning and analysis (FP&A) software platform that combines
+the familiarity of Excel with powerful data management and workflow automation capabilities.
+They help organizations improve business planning, budgeting, and forecasting processes.
+Java is a versatile, object-oriented programming language and platform used to develop a wide range of applications,
+from web and mobile apps to enterprise software and more. It's known for its platform independence,
+meaning code written in Java can run on any device or operating system with a Java Virtual Machine (JVM) installed.
+Java's popularity stems from its ease of use, security, and the extensive libraries and frameworks available for developers.
