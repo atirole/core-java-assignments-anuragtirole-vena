@@ -1,0 +1,35 @@
+// Structure
+com.venasolutions.crudoperationswithdatabase
+│// packages
+├── controller       → Handles HTTP requests
+├── service          → Contains business logic
+├── repository       → Interfaces for DB operations
+├── entity           → Contains @Entity classes
+└── CrudoperationswithdatabaseApplication.java (Main)   // main class
+
+
+
+css
+Copy
+Edit
+src/
+└── main/
+    ├── java/
+    │   └── com/
+    │       └── venasolutions/
+    │           └── crudoperationswithdatabase/
+    │               ├── controller/
+    │               │   └── UserController.java
+    │               ├── service/
+    │               │   ├── UserService.java
+    │               │   └── UserServiceImpl.java
+    │               ├── repository/
+    │               │   └── UserRepository.java
+    │               ├── entity/
+    │               │   └── User.java
+    │               ├── exception/
+    │               │   ├── GlobalExceptionHandler.java
+    │               │   └── ResourceNotFoundException.java
+    │               └── CrudoperationswithdatabaseApplication.java
+    └── resources/
+        └── application.properties
